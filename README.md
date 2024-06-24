@@ -1,0 +1,2 @@
+# SDI
+Suppression Difficulty Index
