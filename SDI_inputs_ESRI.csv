@@ -1,0 +1,11 @@
+Variable,Value
+DEM,D:\PCL_INPUTS\LF2020_v220\LC20_Elev_220.tif
+ASP,D:\PCL_INPUTS\LF2020_v220\LC20_Asp_220.tif
+FBFM40,D:\PCL_INPUTS\LF2022_v220\LC22_F40_220_u2022.tif
+FL,E:\SDI_v2\FlamMap\OUTPUT\PY046_2022_90_FLAMELENGTH.tif
+HUA,E:\SDI_v2\FlamMap\OUTPUT\PY046_2022_90_HEATAREA.tif
+SA,E:\SDI_v2\analysis_extent.shp
+streets,E:\SDI_v2\SDI\INPUT\streets.shp
+trails,E:\SDI_v2\SDI\INPUT\trails.shp
+opath,E:\SDI_v2\SDI\OUTPUT_ESRI
+oname,sdi_2022.tif
